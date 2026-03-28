@@ -1,17 +1,11 @@
-# Hoi, ik ben Stefan 👋
+# Hoi, ik ben Stefan en van deze GitHub ga je blij worden.
 
-Product consultant. Bouwt met AI. Niet erover praten, doen.
+Hier vind je namelijk mijn gratis downloadbare product skills. En dat zijn niet zomaar skills. Product skills op basis van bewezen frameworks, de beste productboeken, en mijn eigen ervaringen. In het Nederlands, want ja, bbbbeter he.
 
-Ik help productteams ontdekken wat ze moeten bouwen, hoe ze dat valideren, en hoe AI dat hele proces verandert. Ik geef trainingen, adviseer productteams, en bouw zelf mee. En alles wat ik leer, deel ik.
+🇳🇱 **[NL Product Skills](https://github.com/SedanWeerman/nl-product-skills)** — 15 skills die je AI-assistent laten doorvragen in plaats van een generiek lijstje teruggeven. Gratis, open source.
 
-### Wat je hier vindt
+📬 **[Afkijken](https://afkijken.substack.com)** — Mijn Substack. Over product + AI. 
 
-🇳🇱 **[NL Product Skills](https://github.com/SedanWeerman/nl-product-skills)** — Nederlandstalige product management skills voor AI-assistenten. Open source, gratis, gebouwd vanuit de praktijk.
+🔗 **[LinkedIn](https://linkedin.com/in/stefanwesemann)** — Kun je me berichtjes sturen.
 
-### Meer van mij
-
-📬 **[Afkijken](https://afkijken.substack.com)** — Over AI + productwerk. Wat werkt, wat niet, en wat ik ervan leer. En waar jij weer van kunt afkijken.
-
-🔗 **[LinkedIn](https://linkedin.com/in/stefanwesemann)**
-
-📍 Nederland
+PS. De link bij NL Product Skills gaat naar mijn uitlegpagina, mocht je er meer over willen weten.
