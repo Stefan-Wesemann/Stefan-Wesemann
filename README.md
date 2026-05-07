@@ -1,6 +1,10 @@
 # Hoi, ik ben Stefan.
 
-Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon veel niet. Met AI kan ik alles.
+Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Oftewel, veel lullen, weinig zelf kunnen.
+
+Althans, dat is wat mensen over dit soort rollen vaak denken. En ja, zo was het ook altijd wel een beetje.
+
+Nu is alles anders. Met AI kan ik alles.
 
 ## Wat je hier vindt
 
